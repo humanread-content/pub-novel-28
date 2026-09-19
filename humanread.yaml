@@ -1,0 +1,69 @@
+version: 1
+title: 'Tao''s Story Garden: Pulling the Seedlings'
+slug: translation-26-en-15c942
+summary: Ahe wants taller seedlings today. But when their leaves droop, Tao notices
+  one plant is still green. With Grandpa Song, they discover what happened beneath
+  the soil. A six-scene illustrated fable with animated CSS artwork.
+cover_color: '#458f87'
+cover_asset: null
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: en
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: d8ee812db50f3a909a53444d8c90a530d16ac5dd7f465ecada103c800d275e71
+  source_novel_id: 26
+  source_slug: novel-f0a7e7be-6de102
+  source_title: 小桃的成語小院：揠苗助長
+  source_version_id: 57
+  target_language: en
+  translator: Humanread Founder
+chapters:
+- id: 677
+  title: A Speck of Mud
+  position: 1
+  file: chapters/0001-677.html
+  format: sandbox-html-css
+  share_card: null
+- id: 678
+  title: A Jug of Water, a Hasty Idea
+  position: 2
+  file: chapters/0002-678.html
+  format: sandbox-html-css
+  share_card: null
+- id: 679
+  title: Taller Above, Looser Below
+  position: 3
+  file: chapters/0003-679.html
+  format: sandbox-html-css
+  share_card: null
+- id: 680
+  title: The One He Left Alone
+  position: 4
+  file: chapters/0004-680.html
+  format: sandbox-html-css
+  share_card: null
+- id: 681
+  title: An Answer Under the Soil
+  position: 5
+  file: chapters/0005-681.html
+  format: sandbox-html-css
+  share_card: null
+- id: 682
+  title: Time to Care
+  position: 6
+  file: chapters/0006-682.html
+  format: sandbox-html-css
+  share_card: null
